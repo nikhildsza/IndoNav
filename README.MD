@@ -44,3 +44,8 @@ IndoNav was developed with perseverance and determination, drawing on lessons le
 4. Build and deploy the application to a compatible device.
 
 
+## 👥 Team  
+
+- [@21Vijeth](https://github.com/21Vijeth) 
+- [@JostonSaldanha](https://github.com/JostonSaldanha) 
+- [@PreethamShastry](https://github.com/PreethamShastry)
