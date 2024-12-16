@@ -8,7 +8,7 @@ Navigating large, unfamiliar indoor spaces can often feel overwhelming. Visitors
 - **User-Friendly Design**: Ensures a hassle-free, smooth navigation experience for everyone.  
 
 ### 🏆 Achievements  
-IndoNav was developed with perseverance and determination, drawing on lessons learned from past hackathons. These efforts paid off, and we proudly secured the **top spot** at [Hackathon Name]! 🎉  
+IndoNav was developed with perseverance and determination, drawing on lessons learned from past hackathons. These efforts paid off, and we proudly secured the **top spot** at the hackathon! 🎉  
 
 ---
 
@@ -39,3 +39,8 @@ IndoNav was developed with perseverance and determination, drawing on lessons le
 1. Clone the repository:  
    ```bash
    git clone https://github.com/yourusername/IndoNav.git
+2. Open the project in Unity.
+3. Install dependencies via Unity Package Manager (AR Foundation, ARCore/ARKit, etc.).
+4. Build and deploy the application to a compatible device.
+
+
